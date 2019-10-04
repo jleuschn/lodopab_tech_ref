@@ -2,7 +2,8 @@
 """
 This script is a technical reference how the `LoDoPaB-CT dataset
 <https://doi.org/10.5281/zenodo.3384092>`_ was created.
-The dataset is described in an arXiv paper in more detail.
+The dataset is documented by the preprint `arXiv:1910.01113
+<https://arxiv.org/abs/1910.01113>`_ in more detail.
 
 Prerequisites:
 
