@@ -105,7 +105,7 @@ IMPL = 'astra_cpu'
 reco_ray_trafo = odl.tomo.RayTransform(reco_space, reco_geometry, impl=IMPL)
 ray_trafo = odl.tomo.RayTransform(space, geometry, impl=IMPL)
 
-PHOTONS_PER_PIXEL = 8192
+PHOTONS_PER_PIXEL = 4096
 
 rs = np.random.RandomState(3)
 
